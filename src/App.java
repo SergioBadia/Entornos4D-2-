@@ -3,6 +3,7 @@ public class App {
 
         int a = 1;
         int b = 2;
-        System.out.println(a+b);
+        int c = 9;
+        System.out.println(a+b+c);
     }
 }
